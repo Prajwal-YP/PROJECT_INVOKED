@@ -1,2 +1,2 @@
-for i in range(0,100):
+for i in range(0,50):
     print("Number-"+str(i+1))
